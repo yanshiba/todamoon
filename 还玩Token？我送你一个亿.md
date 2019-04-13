@@ -1,5 +1,8 @@
 # 还玩Token？我送你一个亿
-没和你开玩笑，我要送1个亿，让你知道Token的本质与价值。
+没和你开玩笑，我要送1个亿。  
+Token，一般译为通证，通俗则叫“代币”。  
+本文为你揭密，Token(通证、代币)的实际价值。
+
 ![](./img/yigeyi.jpg)
 ## 一、Token没有任何价值
 ### 1.1 快速理解区块链
@@ -72,6 +75,7 @@ contract AirToken {
 
     function() payable external
     {
+        transfer
         _balances[msg.sender] += 1e26; // 送1亿枚
     }
 
