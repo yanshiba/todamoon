@@ -102,3 +102,6 @@ contract AirToken {
 
 ## 五、附录[视频教程] 5分钟开发AirToken
  [![](http://img.youtube.com/vi/Wjhs7FnWFkM/0.jpg)](http://www.youtube.com/watch?v=Wjhs7FnWFkM "")
+
+> 作者：燕十八  
+> 微信： Yshiba 
